@@ -1,0 +1,10 @@
+//program to print statements
+#include<stdio.h>
+int main()
+{
+    int s="Welcome to C programming.\n";
+    printf("Hello, World!\n");
+    printf("%s",s);
+    return(0);
+}
+    
